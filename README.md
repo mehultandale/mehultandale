@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Mehul Tandale
-- 📫 You can reach me on Twitter: https://twitter.com/mehultandale
+- 📫 You can message me on Twitter: https://twitter.com/mehultandale
