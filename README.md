@@ -1,2 +1,3 @@
-- 👋 Hi, I’m Mehul Tandale
-- 📫 You can message me on Twitter: https://twitter.com/mehultandale
+- 👋 Hi, I’m Mehul Craftsmith
+- :email: You can email me on mehul.craftsmith@gmail.com
+- :pencil2: You can also reach me on X: https://x.com/TechCraftsmith
