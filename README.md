@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Mehul Craftsmith
-- :email: You can email me on mehul.craftsmith@gmail.com
+- :email: You can email me on <a href="mailto:mehul.craftsmith@gmail.com" target="_BLANK" >mehul.craftsmith@gmail.com</a>
 - :pencil2: You can also reach me on X: https://x.com/TechCraftsmith
